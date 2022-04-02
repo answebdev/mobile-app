@@ -6,6 +6,9 @@ import { useFonts } from 'expo-font';
 import Home from './screens/Home';
 import Details from './screens/Details';
 
+// Video: https://www.youtube.com/watch?v=_ivIUCSOZ78&t=5s
+// Repo: https://github.com/adrianhajdin/react-native-nft-marketplace
+
 const theme = {
   ...DefaultTheme,
   colors: {
