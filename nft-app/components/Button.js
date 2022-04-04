@@ -53,5 +53,3 @@ export const RectButton = ({ minWidth, fontSize, handlePress, ...props }) => {
     </TouchableOpacity>
   );
 };
-
-// Stopped at: 1:16:40
