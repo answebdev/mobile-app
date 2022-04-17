@@ -57,5 +57,3 @@ const DetailsBid = ({ bid }) => {
 };
 
 export default DetailsBid;
-
-// Stopped at 1:57:35

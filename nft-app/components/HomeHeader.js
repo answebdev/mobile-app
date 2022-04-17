@@ -63,7 +63,7 @@ const HomeHeader = ({ onSearch }) => {
             marginTop: SIZES.base / 2,
           }}
         >
-          Let’s find a masterpiece
+          Let's find a masterpiece
         </Text>
       </View>
 
